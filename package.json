@@ -1,0 +1,14 @@
+{
+  "name": "async-await-studying",
+  "version": "1.0.0",
+  "description": "Practice exercises for async/await, Promises, and .then() in JavaScript",
+  "main": "combined.js",
+  "scripts": {
+    "start": "node combined.js",
+    "promises": "node promises.js",
+    "async-await": "node async-await.js"
+  },
+  "keywords": ["async", "await", "promise", "javascript"],
+  "author": "",
+  "license": "ISC"
+}
